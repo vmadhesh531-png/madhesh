@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+ai-image-to-bill/backend/venv/
+
+# Environment Variables
+.env
+ai-image-to-bill/backend/.env
+
+# Uploads and Outputs
+ai-image-to-bill/backend/uploads/
+ai-image-to-bill/backend/outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+.antigravityignore
